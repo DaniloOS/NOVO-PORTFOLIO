@@ -152,25 +152,66 @@ h3{
 }
 h4{
 
-bottom: 150px;
 top: auto;
 font-size: 40px;
 color: white;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-left: 350px;
+text-align: center;
 position: relative;
 
 }
+#Para1{
+text-align: left;
+font-size: 15px;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+align-items: center;
+padding-left: 80px;
 
-.Desc{
+}
 
-    padding-left: 200px;
-    padding-bottom: 70px;
+#Para2{
+    text-align: left;
     font-size: 15px;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    width: 200px;
-    height: 50px;
-    background-color: violet;
+    align-items: center;
+    padding-left: 80px;
+    
+    }
+
+
+#ConteinerSM{
+
+width: 1000px;
+height: 300px;
+
+}
+
+#cotemig{
+
+color: rgb(11, 150, 11);
+font-weight: bold;
+
+}
+
+#dio{
+
+color: cornflowerblue;
+font-weight: bold;
+
+}
+
+#kuau{
+
+color: cornflowerblue;
+font-weight: bold;
+
+}
+
+#cisco{
+
+color: cornflowerblue;
+font-weight: bold;
 
 }
